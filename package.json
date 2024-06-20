@@ -1,6 +1,6 @@
 {
   "name": "runeapes-assessment-carousel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "module": "dist/esm/index.js",
@@ -37,5 +37,8 @@
     "storybook": "^8.1.10",
     "tslib": "^2.6.3",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "styled-components": "^6.1.11"
   }
 }
